@@ -1,4 +1,4 @@
-# CF-Workers-Bing
+# CF-Workers-BingDaily
 
 一个基于 Cloudflare Workers 的轻量级必应每日一图重定向服务。
 
